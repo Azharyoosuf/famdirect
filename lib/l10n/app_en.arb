@@ -1,0 +1,10 @@
+{
+  "appTitle": "Farm Direct",
+  "welcomeMessage": "Welcome to Farm Direct!",
+  "buy": "Buy",
+  "addedToCart": "{productName} added to cart!",
+  "changeLanguage": "Change Language",
+  "userProfile": "User Profile",
+  "settings": "Settings",
+  "switchTheme": "Switch Theme"
+}
